@@ -1,6 +1,9 @@
 ---
 title: Welcome to the Lighthouse Project
 ---
-TEST TESTST ESTSTSET
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+The Lighthouse Project is an educational website. Our goal is to compile notes and exercises that is easily searchable by actual humans so that students are able to access them.
+
+The project is publicly funded and updated by volunteers.
+
+## Subjects
+- [[content/Mathematics/index|Mathematics]]
