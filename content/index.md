@@ -6,4 +6,4 @@ The Lighthouse Project is an educational website. Our goal is to compile notes a
 The project is publicly funded and updated by volunteers.
 
 ## Subjects
-- [[content/Mathematics/index|Mathematics]]
+- [[Mathematics/index|Mathematics]]

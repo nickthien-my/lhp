@@ -1,16 +1,13 @@
-1. Simplify the algebraic expressions below.
+## Algebraic Expressions
+### Practice 5.2
+#### Question 1
+Simplify the algebraic expressions below.
 	(a) $3x + 2x$
 	(b) $2x - 6x$
 	(c) $-x + 3x$
-	≤(d) $-2x - 4x$
-	
-2. Find the sum of two or more of the algebraic expressions below.
-	(a) $2y + 4, 5y - 1$
-	(b) $-4y - x, 3y + x$
-	(c) $x - 3y - 1, -y - 3, 2x + 5$
-	
-### Solutions
-1. (a) $3x + 2x$
+	(d) $-2x - 4x$
+##### Solutions
+(a) $3x + 2x$
 
 $$
 \begin{align*}
@@ -19,7 +16,7 @@ $$
 \end{align*}
 $$
 
-1. (b) $2x - 6x$
+(b) $2x - 6x$
 
 $$
 \begin{align*}
@@ -28,10 +25,48 @@ $$
 \end{align*}
 $$
 
-2. $4x^2 - 16x$
+(c) $-x + 3x$
 $$
 \begin{align*}
-4x^2 - 16x \\
-4x(x-4) \\
+-x + 3x \\
+2x \\
 \end{align*}
+$$
+
+(d) $-2x - 4x$
+$$
+\begin{align*}
+-2x - 4x \\
+-6x \\
+\end{align*}
+$$
+
+#### Question 2
+Find the sum of two or more of the algebraic expressions below.
+	(a) $2y + 4, 5y - 1$
+	(b) $-4y - x, 3y + x$
+	(c) $x - 3y - 1, -y - 3, 2x + 5$
+	(d) $5x - 4y, x + 2y - 3, -5x + y$
+	(e) $-x + 2y -7, 5y - 3x, 6y + 4, 2 + x$
+
+##### Solutions
+(a) $2y + 4, 5y - 1$
+$$
+\begin{align}
+2y + 4, 5y - 1 \\
+2y + 4 + (5y - 1) \\
+2y + 4 + 5y - 1 \\
+2y + 5y + 4 - 1 \\
+7y + 3 \\
+\end{align}
+$$
+(b) $-4y - x, 3y + x$
+$$
+\begin{align}
+-4y - x, 3y + x \\
+-4y - x + (3y + x) \\
+-4y - x + 3y + x \\
+-4y + 3y - x + x \\
+-y \\
+\end{align}
 $$
