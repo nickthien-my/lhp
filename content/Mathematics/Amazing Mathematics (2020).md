@@ -11,8 +11,7 @@ Simplify the algebraic expressions below.
 
 $$
 \begin{align*}
-3x + 2x \\
-5x \\
+3x + 2x &= 5x \\
 \end{align*}
 $$
 
@@ -20,24 +19,21 @@ $$
 
 $$
 \begin{align*}
-2x - 6x \\
--4x \\
+2x - 6x &= -4x \\
 \end{align*}
 $$
 
 (c) $-x + 3x$
 $$
 \begin{align*}
--x + 3x \\
-2x \\
+-x + 3x &= 2x \\
 \end{align*}
 $$
 
 (d) $-2x - 4x$
 $$
 \begin{align*}
--2x - 4x \\
--6x \\
+-2x - 4x &= -6x \\
 \end{align*}
 $$
 
@@ -52,21 +48,19 @@ Find the sum of two or more of the algebraic expressions below.
 ##### Solutions
 (a) $2y + 4, 5y - 1$
 $$
-\begin{align}
-2y + 4, 5y - 1 \\
-2y + 4 + (5y - 1) \\
-2y + 4 + 5y - 1 \\
-2y + 5y + 4 - 1 \\
-7y + 3 \\
-\end{align}
+\begin{align*}
+2y + 4, 5y - 1 &= 2y + 4 + (5y - 1) \\
+&= 2y + 4 + 5y - 1 \\
+&= 2y + 5y + 4 - 1 \\
+&= 7y + 3 \\
+\end{align*}
 $$
 (b) $-4y - x, 3y + x$
 $$
-\begin{align}
--4y - x, 3y + x \\
--4y - x + (3y + x) \\
--4y - x + 3y + x \\
--4y + 3y - x + x \\
--y \\
-\end{align}
+\begin{align*}
+-4y - x, 3y + x &= -4y - x + (3y + x) \\
+&= -4y - x + 3y + x \\
+&= -4y + 3y - x + x \\
+&= -y \\
+\end{align*}
 $$
