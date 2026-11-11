@@ -6,8 +6,12 @@ Simplify the algebraic expressions below.
 	(b) $2x - 6x$
 	(c) $-x + 3x$
 	(d) $-2x - 4x$
-##### Solutions
-(a) $3x + 2x$
+
+<details>
+
+<summary>Solutions</summary>
+
+a) $3x + 2x$
 
 $$
 \begin{align*}
@@ -37,6 +41,7 @@ $$
 \end{align*}
 $$
 
+</details>
 #### Question 2
 Find the sum of two or more of the algebraic expressions below.
 	(a) $2y + 4, 5y - 1$
@@ -46,6 +51,10 @@ Find the sum of two or more of the algebraic expressions below.
 	(e) $-x + 2y -7, 5y - 3x, 6y + 4, 2 + x$
 
 ##### Solutions
+
+###### Question 1
+(
+
 (a) $2y + 4, 5y - 1$
 $$
 \begin{align*}
