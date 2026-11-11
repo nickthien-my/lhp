@@ -9,4 +9,5 @@ The project is **community-funded** and updated by volunteers.
 - [[Mathematics/index|Mathematics]]
 
 ## Contact
+Teacher: [Nicholas Thien](https://wa.me/nickthien)
 Submit questions [here](https://chat.whatsapp.com/IGv0AFOh7HvGbucOp1Lliw).
