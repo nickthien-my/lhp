@@ -17,7 +17,7 @@ book_title: Amazing Mathematics - Form 1
 publication_year: 2020
 chapter: "Chapter 5: Algebraic Expression"
 section: Practice 5.2
-question_no: "1"
+question_no: "2"
 tags:
   - math/linear-algebra
   - curriculum/igcse
@@ -30,25 +30,50 @@ aliases:
 # Practice 5.2 - Question 2
 
 Simplify the algebraic expressions below.
-	(a) $3x + 2x$
-	(b) $2x - 6x$
-	(c) $-x + 3x$
-	(d) $-2x - 4x$
+a) $3x + 2x$
 
+> [!hint]- Answer (Click to reveal)
+> $5x$
 
+> [!success]- Working (Click to reveal)
+> $$
+> \begin{align*}
+> 3x + 2x &= 5x \\
+> \end{align*}
+> $$
 
-**Question:**
-Solve for $x$ and $y$ given that $\begin{pmatrix} 2 & 1 \\ 3 & -1 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 5 \end{pmatrix}$.
+b) $2x - 6x$
 
----
+> [!hint]- Answer (Click to reveal)
+> $-4𝑥$
 
-> [!hint]- Need a nudge? (Click to reveal)
-> Find the determinant of the $2 \times 2$ matrix first, then multiply both sides by its inverse.
+> [!success]- Working (Click to reveal)
+> $$
+> \begin{align*}
+> 2x - 6x &= -4x \\
+> \end{align*}
+> $$
 
-> [!success]- Step-by-Step Solution (Click to reveal)
-> 1. **Find the determinant:**
->    $$\det(A) = (2)(-1) - (1)(3) = -5$$
-> 2. **Find the inverse matrix $A^{-1}$:**
->    $$A^{-1} = -\frac{1}{5} \begin{pmatrix} -1 & -1 \\ -3 & 2 \end{pmatrix}$$
-> 3. **Multiply to solve:**
->    $$\begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 2 \\ 1 \end{pmatrix}$$
+c) $-x + 3x$
+
+> [!hint]- Answer (Click to reveal)
+> $2𝑥$
+
+> [!success]- Working (Click to reveal)
+> $$
+> \begin{align*}
+> -x + 3x &= 2x \\
+> \end{align*}
+> $$
+
+d) $-2x - 4x$
+
+> [!hint]- Answer (Click to reveal)
+> $-6𝑥$
+
+> [!success]- Working (Click to reveal)
+> $$
+> \begin{align*}
+> -2x - 4x &= -6x \\
+> \end{align*}
+> $$

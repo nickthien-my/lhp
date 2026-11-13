@@ -35,7 +35,7 @@ a) $3x + 2x$
 > [!hint]- Answer (Click to reveal)
 > $5𝑥$
 
-> [!success]- Solution (Click to reveal)
+> [!success]- Working (Click to reveal)
 > $$
 > \begin{align*}
 > 3x + 2x &= 5x \\
@@ -47,7 +47,7 @@ b) $2x - 6x$
 > [!hint]- Answer (Click to reveal)
 > $−4𝑥$
 
-> [!success]- Solution (Click to reveal)
+> [!success]- Working (Click to reveal)
 > $$
 > \begin{align*}
 > 2x - 6x &= -4x \\
@@ -56,42 +56,24 @@ b) $2x - 6x$
 
 (c) $-x + 3x$
 
-> [!success]- Solution (Click to reveal)
-> a) $3x + 2x$
->
+> [!hint]- Answer (Click to reveal)
+> $2x$
+
+> [!success]- Working (Click to reveal)
 > $$
 > \begin{align*}
-> 3x + 2x &= 5x \\
+> -x + 3x &= 2x \\
 > \end{align*}
 > $$
 
-	(d) $-2x - 4x$
-
-
-
-**Question:**
-Solve for $x$ and $y$ given that $\begin{pmatrix} 2 & 1 \\ 3 & -1 \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 5 \\ 5 \end{pmatrix}$.
-
----
-
-
-
-
-
-(b) $2x - 6x$
-
-
-
-(c) $-x + 3x$
-$$
-\begin{align*}
--x + 3x &= 2x \\
-\end{align*}
-$$
-
 (d) $-2x - 4x$
-$$
-\begin{align*}
--2x - 4x &= -6x \\
-\end{align*}
-$$
+
+> [!hint]- Answer (Click to reveal)
+> $-6x$
+
+> [!success]- Working (Click to reveal)
+> $$
+> \begin{align*}
+> -2x - 4x &= -6x \\
+> \end{align*}
+> $$
