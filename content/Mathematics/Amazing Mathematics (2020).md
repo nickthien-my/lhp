@@ -8,8 +8,8 @@ Simplify the algebraic expressions below.
 	(d) $-2x - 4x$
 
 <details>
-
 <summary>Solutions</summary>
+
 a) $3x + 2x$
 
 $$
@@ -39,6 +39,7 @@ $$
 -2x - 4x &= -6x \\
 \end{align*}
 $$
+
 </details>
 
 #### Question 2
@@ -61,6 +62,7 @@ $$
 &= 7y + 3 \\
 \end{align*}
 $$
+
 (b) $-4y - x, 3y + x$
 $$
 \begin{align*}
@@ -70,4 +72,5 @@ $$
 &= -y \\
 \end{align*}
 $$
+
 </details>
