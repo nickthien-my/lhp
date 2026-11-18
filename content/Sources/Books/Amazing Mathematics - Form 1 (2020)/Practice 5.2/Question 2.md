@@ -1,5 +1,4 @@
 ---
-title: Amazing Mathematics - Form 1 (2020) - Practice 5.2 Question 2
 description: Step-by-step solution for Algebraic Expression question from Amazing Mathematics - Form 1 (2020).
 type: question
 subject: mathematics
