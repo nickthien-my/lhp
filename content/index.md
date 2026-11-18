@@ -6,7 +6,9 @@ The **Lighthouse Project** is an educational website. Our goal is to compile not
 The project is **community-funded** and updated by volunteers.
 
 ## Subjects
+- [[English/index|English]]
 - [[Mathematics/index|Mathematics]]
+
 
 ## Contact
 Teacher: [Nicholas Thien](https://wa.me/nickthien)
